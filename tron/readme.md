@@ -1,5 +1,5 @@
 # Tron
-basic tron game to show to teach others how to program and how to have fun doing so!
+A basic tron game to show to teach others how to program and how to have fun doing so!
 
 
 ## Build instructions
